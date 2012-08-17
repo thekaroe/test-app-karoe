@@ -1,4 +1,6 @@
 <?php
+	echo "Happy";
+
 	$host="localhost";
 	$user="pingpongso_user";
 	$pass="12341234";
